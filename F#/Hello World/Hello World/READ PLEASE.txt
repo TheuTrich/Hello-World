@@ -1,0 +1,4 @@
+to make .exe
+run your x64 or x86 Cross Tools Command Propt
+and run this code "fsc Program.fs"
+The "Program.fs" depend on your .fs file

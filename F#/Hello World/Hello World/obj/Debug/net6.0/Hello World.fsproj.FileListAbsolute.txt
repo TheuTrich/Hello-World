@@ -1,0 +1,27 @@
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\Hello World.exe
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\Hello World.deps.json
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\Hello World.runtimeconfig.json
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\Hello World.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\Hello World.pdb
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.fsproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfo.fs
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.fsproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.fsproj.CopyComplete
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.dll
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.pdb
+C:\Users\Administrator\source\repos\Hello World\Hello World\obj\Debug\net6.0\Hello World.genruntimeconfig.cache
