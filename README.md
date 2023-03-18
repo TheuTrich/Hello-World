@@ -1,2 +1,2 @@
 # Hello-World
-Here is all the Hello World program I try to make using all kinds of programing language
+Here is all program that prints Hello World from all kinds of programing language
