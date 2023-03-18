@@ -3,7 +3,7 @@ C#		C#\Hello World\Hello World\bin\Debug\net6.0
 C++		C++\Hello World\x64\Debug
 F#		F#\Hello World\Hello World\bin\Debug\net6.0
 HTML		HTML\
-Lua		Lua\
+Lua		
 Python		Python\
 VBScript	VBScript\
 XAML		XAML\Hello World\Hello World\bin\Debug
