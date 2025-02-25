@@ -1,3 +1,5 @@
+List deprecated, updated list in README.md
+
 Batchfile	  Batchfile\
 C#		      C#\Hello World\Hello World\bin\Debug\net6.0
 C++		      C++\Hello World\x64\Debug
